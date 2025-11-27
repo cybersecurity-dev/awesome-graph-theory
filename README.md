@@ -1,4 +1,8 @@
+<div align="center">
+    
 # Awesome [Graph](https://wikipedia.org/wiki/Graph_theory) Theory [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+</div>
+
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PL9V4Zu3RroiWaA4hoxpH7TqF35ELD4qIi&si=ZyLcvTHnQ1MUah8J)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/GraphTheory/new/)
 
