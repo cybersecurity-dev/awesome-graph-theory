@@ -1,6 +1,11 @@
 <div align="center">
+    <p align="center">
+        <a href="https://wikipedia.org/wiki/Graph_theory">
+          <img width="40%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/graph_theory.svg" />
+        </a>
+    </p>
     
-# **`Awesome`** [Graph](https://wikipedia.org/wiki/Graph_theory) Theory [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# **`Awesome`** Graph Theory [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PL9V4Zu3RroiWaA4hoxpH7TqF35ELD4qIi&si=ZyLcvTHnQ1MUah8J)
